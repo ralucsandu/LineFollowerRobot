@@ -18,7 +18,7 @@
 
 ## Task
 
-Implement a line follower robot that is able to follow a route which contains both straight lines and curves. The calibration should be done with automatic motor movenment. 
+Implement a line follower robot able to follow a route which contains both straight lines and curves. The calibration should be done with automatic motor movement. 
 
 ## Setup Pictures
 TODO
