@@ -2,18 +2,18 @@
 
 ## Components 
 
-*Arduino Uno
-*Zip-ties
-*LiPo battery
-*Two wheels
-*Wires for the line sensor
-*QTR-8A reflectance sensor
-*Ball caster
-*Extra wires 
-*Chassis
-*Breadboard
-*L293D motor driver
-*Two DC motors 
+* Arduino Uno
+* Zip-ties
+* LiPo battery
+* Two wheels
+* Wires for the line sensor
+* QTR-8A reflectance sensor
+* Ball caster
+* Extra wires 
+* Chassis
+* Breadboard
+* L293D motor driver
+* Two DC motors 
 
 
 ## Task
