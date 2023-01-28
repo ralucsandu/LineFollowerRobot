@@ -1,6 +1,6 @@
 # LineFollowerRobot #
 
-This repository is dedicated to the line follower project for the Introduction to Robotics course, taken in the 3rd year (2022-2023) at the Faculty of Mathematics and Computer Science, University of Bucharest. The project was made in teams of 2 people; I took part in the Runtime Terror team, along with @vladfxstoader.
+This repository is dedicated to the line follower project for the Introduction to Robotics course, taken in the 3rd year (2022-2023) at the Faculty of Mathematics and Computer Science, University of Bucharest. The project was made in teams of 2 people; I took part in the Runtime Terror team, along with [@vladfxstoader].
 ## Components 
 
 * Arduino Uno
